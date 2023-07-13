@@ -1,0 +1,1 @@
+export { dynamodbAdapter as dynamodb } from "./dynamodb.js";
